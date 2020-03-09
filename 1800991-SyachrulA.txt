@@ -1,0 +1,12 @@
+Syachrul Ardhiansyah
+1800991
+Ilkom C 2018
+
+Saya Syachrul Ardhiansyah mengerjakan Tugas Praktikum 1 di Mata kuliah DESAIN DAN PEMROGRAMAN BERORIENTASI OBJEK (DPBO)
+untuk keberkahanNya maka saya tidak melakukan Kecurangan seperti yang telah dispesifikasikan. 
+Aamiin.
+
+Kesulitan :
+karena saya masih belum meguasai materi, jadi banyak kesulitan. masih sulit untuk search harga dan nama, lalu untuk masukan ke list beli dan masih belum untuk ke menu lain.
+
+fitur baru log in dan log out terlebih dahulu dan menampilkan sesuai dengan tampilan dan ada beberaa menu
