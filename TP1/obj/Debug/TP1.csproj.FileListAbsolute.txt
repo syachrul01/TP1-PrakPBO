@@ -1,0 +1,10 @@
+C:\Users\windows 10\source\repos\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\windows 10\source\repos\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\windows 10\source\repos\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.Form1.resources
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\windows 10\source\repos\TP1\TP1\obj\Debug\TP1.Form2.resources
